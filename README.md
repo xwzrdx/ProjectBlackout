@@ -23,7 +23,8 @@ Discord: ``wzrd0001``
 * Room List
 * Enter Room
 * Ready/Unready
-
+* Start Match
+* Killfeed & Respawn
 
 # To Do
 ``.i3Pack`` Editor Tool
@@ -48,3 +49,4 @@ Discord: ``wzrd0001``
 <img width="1597" height="977" alt="image" src="https://github.com/user-attachments/assets/2372e626-1b17-413c-af98-d5500a9b0422" />
 <img width="918" height="236" alt="image" src="https://github.com/user-attachments/assets/073c3e3c-66e7-4636-b096-43243d9c5e69" />
 <img width="990" height="552" alt="image" src="https://github.com/user-attachments/assets/3004b482-1b2f-4847-888d-798bb10bce9c" />
+<img width="1587" height="976" alt="image" src="https://github.com/user-attachments/assets/04b89b15-252f-461b-9894-363249002d87" />
