@@ -37,6 +37,7 @@ Discord: ``wzrd0001``
 * FOV Changer
 * Viewmodel FOV Changer
 * Weapon Sway when looking around
+* Discord RPC
 
 
 
