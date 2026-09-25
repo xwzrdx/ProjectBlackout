@@ -27,7 +27,10 @@ Discord: ``wzrd0001``
 * Killfeed & Respawn
 * Sudden Death Mode
 * Defense Mode
-
+* Whisper Chat (If whisper is allowed, if the user has whispers blocked the sender will be notified accordingly)
+* Lobby Chat
+* Room Chat
+* Community Options (Allow/Block Whisper, Invites, etc.)
 
 
 # Client Stuff
@@ -42,14 +45,8 @@ Discord: ``wzrd0001``
 ``.i3Pack`` Editor Tool
 * Missions
 * Clans
-* Lobby Chat
-* Whisper Chat
-* Room Chat
 * Seasonal Battle Records
 * Total Battle Records
-* FOV Changer
-* Viewmodel FOV Changer
-* Weapon Sway when looking around
 * Discord RPC
 * Kick from room & prevent rejoin
 * Change team
@@ -65,3 +62,4 @@ Discord: ``wzrd0001``
 <img width="918" height="236" alt="image" src="https://github.com/user-attachments/assets/073c3e3c-66e7-4636-b096-43243d9c5e69" />
 <img width="990" height="552" alt="image" src="https://github.com/user-attachments/assets/3004b482-1b2f-4847-888d-798bb10bce9c" />
 <img width="1587" height="976" alt="image" src="https://github.com/user-attachments/assets/04b89b15-252f-461b-9894-363249002d87" />
+<img width="242" height="121" alt="image" src="https://github.com/user-attachments/assets/30328d1e-b749-4cdb-984d-f9ba9556264c" />
