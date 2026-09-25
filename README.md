@@ -13,6 +13,8 @@ Project Blackout is the OG version, before Point Blank/Piercing Blow rebrand wit
 * Player Currencies
 * Player Level
 * Player Exp
+* Player Inventory
+* Equip Items
 
 
 # To Do
