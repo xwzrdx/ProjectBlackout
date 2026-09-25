@@ -26,6 +26,7 @@ Discord: ``wzrd0001``
 
 
 # To Do
+``.i3Pack`` Editor Tool
 * Missions
 * Clans
 * Lobby Chat
@@ -33,6 +34,9 @@ Discord: ``wzrd0001``
 * Room Chat
 * Seasonal Battle Records
 * Total Battle Records
+* FOV Changer
+* Viewmodel FOV Changer
+* Weapon Sway when looking around
 
 
 
