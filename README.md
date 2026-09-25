@@ -31,6 +31,8 @@ Discord: ``wzrd0001``
 * Lobby Chat
 * Room Chat
 * Community Options (Allow/Block Whisper, Invites, etc.)
+* Kick from room & prevent rejoin
+* Change room owner when host leaves
 
 
 # Client Stuff
@@ -48,7 +50,6 @@ Discord: ``wzrd0001``
 * Seasonal Battle Records
 * Total Battle Records
 * Discord RPC
-* Kick from room & prevent rejoin
 * Change team
 * Custom Modes: Hardcore, Lifesteal, etc.
 
