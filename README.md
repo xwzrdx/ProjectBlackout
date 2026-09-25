@@ -26,6 +26,7 @@ Discord: ``wzrd0001``
 * Start Match
 * Killfeed & Respawn
 * Sudden Death Mode
+* Defense Mode
 
 
 
@@ -52,6 +53,7 @@ Discord: ``wzrd0001``
 * Discord RPC
 * Kick from room & prevent rejoin
 * Change team
+* Custom Modes: Hardcore, Lifesteal, etc.
 
 
 
