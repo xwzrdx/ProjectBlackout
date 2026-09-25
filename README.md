@@ -4,6 +4,8 @@ Server Emulator for Project Blackout (2011 client)
 
 Project Blackout is the OG version, before Point Blank/Piercing Blow rebrand with new devs & publishers!
 
+Discord: ``wzrd0001``
+
 
 
 # Done
@@ -15,6 +17,7 @@ Project Blackout is the OG version, before Point Blank/Piercing Blow rebrand wit
 * Player Exp
 * Player Inventory
 * Equip Items
+* Channel Player List
 
 
 # To Do
@@ -26,7 +29,7 @@ Project Blackout is the OG version, before Point Blank/Piercing Blow rebrand wit
 * Lobby Chat
 * Whisper Chat
 * Room Chat
-* Player List
+
 
 
 
