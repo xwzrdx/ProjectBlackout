@@ -22,6 +22,7 @@ Discord: ``wzrd0001``
 * Room User List
 * Room List
 * Enter Room
+* Ready/Unready
 
 
 # To Do
