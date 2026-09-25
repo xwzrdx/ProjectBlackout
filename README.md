@@ -25,6 +25,17 @@ Discord: ``wzrd0001``
 * Ready/Unready
 * Start Match
 * Killfeed & Respawn
+* Sudden Death Mode
+
+
+
+# Client Stuff
+* FOV
+* Viewmodel FOV
+* Weapon Sway when looking around
+
+
+
 
 # To Do
 ``.i3Pack`` Editor Tool
@@ -39,6 +50,8 @@ Discord: ``wzrd0001``
 * Viewmodel FOV Changer
 * Weapon Sway when looking around
 * Discord RPC
+* Kick from room & prevent rejoin
+* Change team
 
 
 
