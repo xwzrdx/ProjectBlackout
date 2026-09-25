@@ -11,7 +11,20 @@ Project Blackout is the OG version, before Point Blank/Piercing Blow rebrand wit
 * Create Nickname + Nickname already exists
 * Shop Items
 * Player Currencies
+* Player Level
+* Player Exp
 
+
+# To Do
+* Missions
+* Clans
+* Create Room
+* Enter Room
+* Room User List
+* Lobby Chat
+* Whisper Chat
+* Room Chat
+* Player List
 
 
 
