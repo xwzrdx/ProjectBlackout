@@ -35,6 +35,7 @@ Discord: ``wzrd0001``
 * Change room owner when host leaves
 * Friend Requests
 * Friend List
+* Remove Friend
 * Detail Info (Stats)
 
 
@@ -67,3 +68,5 @@ Discord: ``wzrd0001``
 <img width="990" height="552" alt="image" src="https://github.com/user-attachments/assets/3004b482-1b2f-4847-888d-798bb10bce9c" />
 <img width="1587" height="976" alt="image" src="https://github.com/user-attachments/assets/04b89b15-252f-461b-9894-363249002d87" />
 <img width="242" height="121" alt="image" src="https://github.com/user-attachments/assets/30328d1e-b749-4cdb-984d-f9ba9556264c" />
+<img width="922" height="522" alt="image" src="https://github.com/user-attachments/assets/40d7eb16-4cb0-43eb-8db7-d0a52ed5d6f2" />
+
