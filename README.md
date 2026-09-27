@@ -33,6 +33,9 @@ Discord: ``wzrd0001``
 * Community Options (Allow/Block Whisper, Invites, etc.)
 * Kick from room & prevent rejoin
 * Change room owner when host leaves
+* Friend Requests
+* Friend List
+* Detail Info (Stats)
 
 
 # Client Stuff
