@@ -49,6 +49,7 @@ Discord: ``wzrd0001``
 
 # To Do
 ``.i3Pack`` Editor Tool
+* Shop Editor
 * Missions
 * Clans
 * Seasonal Battle Records
